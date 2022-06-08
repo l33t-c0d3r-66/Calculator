@@ -1,5 +1,5 @@
 # Calculator
-<li> A simple calculator created with HTML, CSS and JavaScript.
+<li> An attractive calculator created with HTML, CSS and JavaScript.
 <li> It used the concept of DOM manipulation for different operations.
 
 ## What is HTML?
